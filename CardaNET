@@ -1,7 +1,7 @@
 {
     "project": "CardaNET",
     "tags": [
-        "CardaNET"
+        "CardaNET","DotNet Core"
     ],
     "policies": [
         "42f696ce37ecf3211d623a155f300dc93bef602fa9e27c2d1206d592",
